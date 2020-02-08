@@ -58,11 +58,17 @@ header {
 }
 
 button {
-	padding: 9px 30px;
+	padding: 12px 30px;
+
 	background-color: #771609;
 	border:none;
 	cursor: pointer;
 	transition: all 0.3s ease 0s;
+}
+
+.support {
+	padding-left: 14px;
+	background-color: #fff;
 }
 
 button:hover {
